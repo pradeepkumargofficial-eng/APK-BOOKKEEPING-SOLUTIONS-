@@ -1,5 +1,4 @@
-# APK-BOOKKEEPING-SOLUTIONS-
-AI-Powered Bookkeeping &amp; Financial Automation
+
 # APK Bookkeeping Solutions
 
 AI-Powered Bookkeeping & Financial Automation Platform
